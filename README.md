@@ -2,4 +2,7 @@
 ## Introduction
 ##introduction
 ##Features
+<<<<<<< HEAD
 ## Installation
+=======
+>>>>>>> doc/features
