@@ -6,4 +6,3 @@
 ## Installation
 =======
 >>>>>>> doc/features
-Something not expected
